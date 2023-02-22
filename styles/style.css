@@ -283,11 +283,14 @@ a {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+  color: #fff;
+  text-decoration: none;
 }
 
 .footer__social-icon {
   width: 16px;
   height: 16px;
+  margin-right: 10px;
 }
 
 .footer__column-links {
@@ -296,13 +299,4 @@ a {
   font-size: 18px;
   list-style: none;
   padding: 0;
-}
-
-.footer__column_link {
-  color: #fff;
-  text-decoration: none;
-}
-
-.footer__social-icon {
-  margin-right: 10px;
 }
