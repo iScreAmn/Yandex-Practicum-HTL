@@ -17,6 +17,8 @@ a {
   background-color: #f2f2f2;
   display: flex;
   align-items: center;
+  position: relative;
+  overflow: hidden;
 }
 
 .logo {
@@ -40,16 +42,18 @@ a {
   line-height: 96px;
   font-weight: 600;
   margin-left: 64px;
+  z-index: 2;
 }
 
 .header__subtitle {
   width: 388px;
-  line-height: 25px;
-  font-size: 18px;
-  font-weight: normal;
   position: absolute;
   bottom: 30px;
   left: 64px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  z-index: 2;
 }
 
 .header__main-ilustration {
@@ -176,36 +180,36 @@ a {
 }
 
 .feynman__title {
-  line-height: 1.15;
-  font-size: 120px;
-  font-weight: 600;
   width: 648px;
   margin: 0 auto;
   margin-bottom: 70px;
   text-align: center;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: 600;
 }
 
 .feynman__subtitle {
+  margin: 0 auto;
+  text-align: center;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  margin: 0 auto;
-  text-align: center;
 }
 
 .feynman__link {
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
   position: absolute;
   top: 50%;
   right: 48px;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
 }
 
 .kaufman {
   background-color: #1f1f1f;
   padding-top: 90px;
-  padding-bottom: 80px;
+  padding-bottom: 90px;
   position: relative;
   overflow: hidden;
 }
