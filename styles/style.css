@@ -29,9 +29,6 @@ p {
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-}
-
-.logo_place_header {
   width: 228px;
   height: 32px;
   position: absolute;
