@@ -1,13 +1,13 @@
-## Yandex Practicum </howToLearn>
+## Yandex Practicum "How To Learn"
 
 First project from company [Yandex Practicum](https://practicum.yandex.ru/ "Yandex Practicum").
  
-## </About>
+## About
 
 Landing page created in HTML / CSS
 BEM file structure is used
 
-#### </Technologies>
+#### Technologies
 HTML / CSS
 * BEM Nested
 * Keyframes
@@ -16,7 +16,7 @@ HTML / CSS
 * Semantic markup
 * Positioning
   
-## </refactoringForTheFuture
+## Refactoring For The Future
 * Cross-browser compatibility;
 * Adaptability for various devices
 * Append all vendor prefixes
