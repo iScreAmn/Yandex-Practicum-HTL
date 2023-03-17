@@ -1,19 +1,26 @@
-## Научиться учиться
+## Yandex Practicum </howToLearn>
 
-Проектная работа от компании [Яндекс Практикум](https://practicum.yandex.ru/ "Яндекс Практикум").   
+First project from company [Yandex Practicum](https://practicum.yandex.ru/ "Yandex Practicum").
+ 
+## </About>
 
-## Описание
-Сайт одностраничник, написан на HTML / CSS
-Используется файловая структура BEM
+Landing page created in HTML / CSS
+BEM file structure is used
 
-#### Технологии
+#### </Technologies>
 HTML / CSS
 * BEM Nested
 * Keyframes
 * Iframe
 * Flexbox
+* Semantic markup
+* Positioning
   
-## Планы по доработке проекта
-* Подключить другие шрифты;
-* Проверить код на кроссбраузерность и дописать все вендорные префиксы
-* Задизайнить форму, через которую пользователи смогут отправить комментарий
+## </refactoringForTheFuture
+* Cross-browser compatibility;
+* Adaptability for various devices
+* Append all vendor prefixes
+
+
+
+ 
